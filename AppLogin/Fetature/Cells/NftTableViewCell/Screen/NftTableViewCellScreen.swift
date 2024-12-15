@@ -1,13 +1,13 @@
 //
-//  NftFilterCollectionViewCellScreen.swift
+//  NftTableViewCellScreen.swift
 //  AppLogin
 //
-//  Created by Marcos Vinícius Vieira on 14/12/24.
+//  Created by Marcos Vinícius Vieira on 15/12/24.
 //
 
 import UIKit
 
-class NftFilterCollectionViewCellScreen: UIView {
+class NftTableViewCellScreen: UIView {
 
     /*
     // Only override draw() if you perform custom drawing.
