@@ -1,13 +1,13 @@
 //
-//  NftTableViewCellScreen.swift
+//  NFTTableViewCellScreen.swift
 //  AppLogin
 //
-//  Created by Marcos Vinícius Vieira on 15/12/24.
+//  Created by Marcos Vinícius Vieira on 21/12/24.
 //
 
 import UIKit
 
-class NftTableViewCellScreen: UIView {
+class NFTTableViewCellScreen: UIView {
 
     /*
     // Only override draw() if you perform custom drawing.

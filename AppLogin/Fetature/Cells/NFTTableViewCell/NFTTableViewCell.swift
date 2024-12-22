@@ -1,13 +1,13 @@
 //
-//  NftTableViewCell.swift
+//  NFTTableViewCell.swift
 //  AppLogin
 //
-//  Created by Marcos Vinícius Vieira on 15/12/24.
+//  Created by Marcos Vinícius Vieira on 21/12/24.
 //
 
 import UIKit
 
-class NftTableViewCell: UITableViewCell {
+class NFTTableViewCell: UITableViewCell {
 
     override func awakeFromNib() {
         super.awakeFromNib()
